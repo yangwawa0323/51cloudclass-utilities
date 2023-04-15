@@ -1,4 +1,4 @@
-![51cloudclass.com](https://assets.51cloudclass.com/assets/static/CloudClass-8_adobe_express-87cfb11ed345b854f0d914318159d932.svg =80x80)
+![51cloudclass.com](https://www.51cloudclass.com/admin/static/media/logo.6ae10da8da3971afff21.png)
 
 ## install package
 
